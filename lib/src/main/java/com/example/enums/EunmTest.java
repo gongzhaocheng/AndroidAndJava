@@ -1,0 +1,1 @@
+package com.example.enums; /** * This program enumerated typers *@author cgz *@version at 2018/9/20 22:08 */public class EunmTest {}
